@@ -1,0 +1,276 @@
+say:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  player name
+	// 8  player server ids
+	// 9  player steam ids
+	// 10 player team
+	// 11 text
+kill:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  killer name
+	// 8  killer server ids
+	// 9  killer steam ids
+	// 10 killer team
+	// 11 killer pos x1
+	// 12 killer pos x2
+	// 13 killer pos x3
+	// 14 victim name
+	// 15 victim server ids
+	// 16 victim steam ids
+	// 17 victim team
+	// 18 victim pos x1
+	// 19 victim pos x2
+	// 20 victim pos x3
+	// 21 weapon
+killh:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  killer name
+	// 8  killer server ids
+	// 9  killer steam ids
+	// 10 killer team
+	// 11 killer pos x1
+	// 12 killer pos x2
+	// 13 killer pos x3
+	// 14 victim name
+	// 15 victim server ids
+	// 16 victim steam ids
+	// 17 victim team
+	// 18 victim pos x1
+	// 19 victim pos x2
+	// 20 victim pos x3
+	// 21 weapon
+	// 22 headshot
+killo: 
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  killer name
+	// 8  killer server ids
+	// 9  killer steam ids
+	// 10 killer team
+	// 11 killer pos x1
+	// 12 killer pos x2
+	// 13 killer pos x3
+	// 14 victim name
+	// 15 victim server ids
+	// 16 victim pos x1
+	// 17 victim pos x2
+	// 18 victim pos x3
+	// 19 weapon
+assist:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  assister name
+	// 8  assister server ids
+	// 9  assister steam ids
+	// 10 assister team
+	// 11 victim name
+	// 12 victim server ids
+	// 13 victim steam ids
+	// 14 victim team
+purchase:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  player name
+	// 8  player server ids
+	// 9  player steam ids
+	// 10 player team
+	// 11 weapon
+nade:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  player name
+	// 8  player server ids
+	// 9  player steam ids
+	// 10 player team
+	// 11 nade type
+	// 12 pos x1
+	// 13 pos x2
+	// 14 pos x3
+convar:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  var
+	// 8  value
+matchvar:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  var
+	// 8  value
+player:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  player name
+	// 8  player server ids
+	// 9  player steam ids
+	// 10 player team
+	// 11 event
+team:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  team
+	// 8  event
+	// 9  ct score
+	// 10 t score 
+score:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  team
+	// 8  score
+	// 9  number of players
+world:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  event
+teamchange:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  player name
+	// 8  player server ids
+	// 9  player steam ids
+	// 10 old team
+	// 11 new team
+disconnect:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  player name
+	// 8  player server ids
+	// 9  player steam ids
+	// 10 player team
+	// 11 reason
+connect:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  player name
+	// 8  player server ids
+	// 9  player steam ids
+	// 10 player team
+	// 11 address
+entered:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  player name
+	// 8  player server ids
+	// 9  player steam ids
+	// 10 player team
+validate:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  player name
+	// 8  player server ids
+	// 9  player steam ids
+	// 10 player team
+map_loading:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  map
+map_started:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  map
+	// 8  CRC ?
+team_name:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  team
+	// 8  name
+projectile:
+	// 1  month
+	// 2  day
+	// 3  year
+	// 4  hour
+	// 5  minute
+	// 6  second
+	// 7  projectile type
+	// 8  pos x1
+	// 9  pos x2
+	// 10 pos x3
+	// 11 velocity pos x1
+	// 12 velocity pos x2
+	// 13 velocity pos x3

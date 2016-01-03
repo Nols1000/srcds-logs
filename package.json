@@ -1,0 +1,11 @@
+{
+  "name": "srcds-logs",
+  "version": "0.0.1",
+  "description": "Event driven api logging events on csgo-servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nols1000",
+  "license": "GPL-3.0"
+}
