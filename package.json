@@ -1,11 +1,23 @@
 {
   "name": "srcds-logs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Event driven api logging events on csgo-servers.",
+  "keywords": "csgo, srcds, logs",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "author": "Nols1000",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nols1000/srcds-logs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nols1000/srcds-logs/issues"
+  },
+  "homepage": "https://github.com/Nols1000/srcds-logs#readme"
 }
